@@ -1,0 +1,4 @@
+<div id="$customField.id-val" class="value type-select" data-fieldtype="select" data-fieldtypecompletekey="com.atlassian.jira.plugin.system.customfieldtypes:select">
+    <a href='http://localhost:2990/jira/browse/$!value'>$!value</a>
+</div>
+
